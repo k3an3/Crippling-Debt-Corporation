@@ -1,2 +1,2 @@
-# isucdc2-2015-www
+# Crippling Dept Corporation
 Insecure Django webapp for the Spring 2015 Cyber Defense Competition at ISU.
